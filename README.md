@@ -1,4 +1,3 @@
-# neonac
 # 🟢 NeonAC
 
 **A Minecraft anti-cheat for version 1.21.4.**
